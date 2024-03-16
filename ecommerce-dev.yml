@@ -1,7 +1,7 @@
 token:
   expiration:
     time: 864000000 # 10 Day
-  secret: secret_secret_secret_secret_secret_dev
+  secret: secret_secret_secret_secret_secret_dev2
 
 gateway:
   ip: 211.219.89.69
